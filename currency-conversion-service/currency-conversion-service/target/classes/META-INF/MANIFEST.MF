@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: currency-conversion-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: bennel2
+Implementation-Vendor-Id: com.i28minutes.microservices
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://projects.spring.io/spring-boot/currency-con
+ version-service/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

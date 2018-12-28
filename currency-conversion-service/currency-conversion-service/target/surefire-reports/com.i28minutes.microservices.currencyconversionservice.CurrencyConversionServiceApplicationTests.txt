@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.i28minutes.microservices.currencyconversionservice.CurrencyConversionServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.728 s <<< FAILURE! - in com.i28minutes.microservices.currencyconversionservice.CurrencyConversionServiceApplicationTests
+contextLoads(com.i28minutes.microservices.currencyconversionservice.CurrencyConversionServiceApplicationTests)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+
