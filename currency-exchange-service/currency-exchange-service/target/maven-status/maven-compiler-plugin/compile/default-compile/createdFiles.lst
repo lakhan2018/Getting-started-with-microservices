@@ -1,0 +1,4 @@
+com\i28minutes\microservices\currencyexchangeservice\ExchangeValue.class
+com\i28minutes\microservices\currencyexchangeservice\ExchangeValueRepository.class
+com\i28minutes\microservices\currencyexchangeservice\CurrencyExchangeController.class
+com\i28minutes\microservices\currencyexchangeservice\CurrencyExchangeServiceApplication.class
